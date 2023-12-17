@@ -1,0 +1,41 @@
+/* challenge 4: fetch api data and make each item appear one by one in a timed manner  */
+
+/* .pokemon-name {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.pokemon-name:nth-child(1) {
+    animation: fadeIn 1s ease-in-out forwards;
+}
+
+.pokemon-name:nth-child(2) {
+    animation: fadeIn 1s 1s ease-in-out forwards;
+}
+
+.pokemon-name:nth-child(3) {
+    animation: fadeIn 1s 2s ease-in-out forwards;
+}
+
+.pokemon-name:nth-child(4) {
+    animation: fadeIn 1s 3s ease-in-out forwards;
+}
+
+.pokemon-name:nth-child(5) {
+    animation: fadeIn 1s 4s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+} */
+
+
+
+
+/* ***** */
+
+
+
+
